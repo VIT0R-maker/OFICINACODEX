@@ -22,7 +22,7 @@ Edite `config.js` com os dados reais da oficina:
 - `address`: endereço completo;
 - `mapsUrl`: link HTTPS do endereço no Google Maps.
 
-Os contatos permanecem vazios até serem fornecidos pelo responsável. O site nunca direciona visitantes a um telefone fictício. Sem WhatsApp configurado, os botões explicam que o canal está indisponível, e o formulário permite copiar uma solicitação sem simular envio ou confirmação.
+O WhatsApp informado pelo responsável, **(16) 97402-5140**, já está configurado. Endereço e e-mail permanecem vazios até serem fornecidos. O site nunca direciona visitantes a um telefone fictício. Se o WhatsApp for removido da configuração, os botões explicam que o canal está indisponível, e o formulário permite copiar uma solicitação sem simular envio ou confirmação.
 
 Com WhatsApp configurado, o formulário prepara uma mensagem para envio voluntário pelo visitante. O horário só é confirmado pela equipe. Não há backend, e-mail automático ou sistema de reservas. Os dados do formulário não são armazenados em cookies, localStorage ou banco de dados.
 
